@@ -15,7 +15,7 @@ const config = {
   glowDuration: 75,
   maximumGlowPointSpacing: 10,
   colors: ["249 146 253", "252 254 255"],
-  sizes: ["10.4rem", "20rem", "5.6rem"],
+  sizes: ["6.4rem", "18rem", "4rem"],
   animations: ["fall-1", "fall-2", "fall-3"]
 }
 
